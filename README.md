@@ -171,7 +171,7 @@
   <tr>
     <td align="center" style="padding: 24px 0 16px 0; text-align: center;">
       <!-- Put your video link in the href attribute below -->
-      <a href="YOUR_VIDEO_URL_HERE" target="_blank" style="text-decoration: none; display: inline-block; margin: 0 auto;" aria-label="Watch Prelim Video Presentation">
+      <a href="https://drive.google.com/file/d/1iJmIAVZTSkRztvu7yjzqoNGjtfhxZjGO/view?usp=drive_link" target="_blank" style="text-decoration: none; display: inline-block; margin: 0 auto;" aria-label="Watch Prelim Video Presentation">
         <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-radius: 4px; overflow: hidden; background-color: #ff007a; margin: 0 auto;">
           <tr>
             <td align="center" style="padding: 10px 20px; color: #ffffff; font-weight: bold; font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;">
