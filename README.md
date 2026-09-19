@@ -97,13 +97,13 @@
   <thead>
     <tr>
       <th align="center" width="33%" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/🌸%20ACTIVITY%201-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+        <img src="https://img.shields.io/badge/%20ACTIVITY%201-0070f3?style=for-the-badge&labelColor=0d1b2a" />
       </th>
       <th align="center" width="33%" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/🎨%20ACTIVITY%202-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+        <img src="https://img.shields.io/badge/%20ACTIVITY%202-0070f3?style=for-the-badge&labelColor=0d1b2a" />
       </th>
       <th align="center" width="34%" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/📱%20ACTIVITY%203-0070f3?style=for-the-badge&labelColor=0d1b2a" />
+        <img src="https://img.shields.io/badge/%20ACTIVITY%203-0070f3?style=for-the-badge&labelColor=0d1b2a" />
       </th>
     </tr>
   </thead>
