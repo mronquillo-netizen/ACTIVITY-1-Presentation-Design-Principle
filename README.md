@@ -164,15 +164,18 @@
 <!-- Main Container Table -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0d1117; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
   
+<!-- Main Container Table with explicit centering -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="background-color: #0d1117; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center; margin: 0 auto;">
+  
   <!-- ACCESSIBLE WATCH PRELIM VIDEO BUTTON -->
   <tr>
-    <td align="center" style="padding: 24px 0 16px 0;">
+    <td align="center" style="padding: 24px 0 16px 0; text-align: center;">
       <!-- Put your video link in the href attribute below -->
-      <a href="YOUR_VIDEO_URL_HERE" target="_blank" style="text-decoration: none; display: inline-block;" aria-label="Watch Prelim Video Presentation">
-        <table border="0" cellpadding="0" cellspacing="0" style="border-radius: 4px; overflow: hidden; background-color: #ff007a;">
+      <a href="YOUR_VIDEO_URL_HERE" target="_blank" style="text-decoration: none; display: inline-block; margin: 0 auto;" aria-label="Watch Prelim Video Presentation">
+        <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-radius: 4px; overflow: hidden; background-color: #ff007a; margin: 0 auto;">
           <tr>
-            <td style="padding: 10px 20px; color: #ffffff; font-weight: bold; font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;">
-              ▶ 🎬PRELIM VIDEO PRESENTATION
+            <td align="center" style="padding: 10px 20px; color: #ffffff; font-weight: bold; font-size: 13px; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;">
+              ▶ 🎬 PRELIM VIDEO PRESENTATION
             </td>
           </tr>
         </table>
@@ -182,21 +185,21 @@
 
   <!-- DIVIDER -->
   <tr>
-    <td style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px 0;" />
+    <td align="center" style="padding: 0 16px;">
+      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
     </td>
   </tr>
 
   <!-- MIDTERMS SECTION -->
   <tr>
-    <td align="center" style="padding: 16px 0 8px 0;">
+    <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
       <!-- Badge Component -->
-      <table border="0" cellpadding="0" cellspacing="0" style="display: inline-table; border-radius: 4px; overflow: hidden;">
+      <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
         <tr>
-          <td style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase;">
+          <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
             PERIOD
           </td>
-          <td style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase;">
+          <td align="center" style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
             MIDTERMS
           </td>
         </tr>
@@ -204,30 +207,30 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 8px 16px 24px 16px;">
-      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0; font-style: italic;">
-        Stay tuned! Prefinal tasks and deliverables will be updated here soon
+    <td align="center" style="padding: 8px 16px 24px 16px; text-align: center;">
+      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0 auto; font-style: italic; text-align: center;">
+        Stay tuned! Midterm tasks and deliverables will be updated here soon.
       </p>
     </td>
   </tr>
 
   <!-- DIVIDER -->
   <tr>
-    <td style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px 0;" />
+    <td align="center" style="padding: 0 16px;">
+      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
     </td>
   </tr>
 
   <!-- PREFINALS SECTION -->
   <tr>
-    <td align="center" style="padding: 16px 0 8px 0;">
+    <td align="center" style="padding: 16px 0 8px 0; text-align: center;">
       <!-- Badge Component -->
-      <table border="0" cellpadding="0" cellspacing="0" style="display: inline-table; border-radius: 4px; overflow: hidden;">
+      <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: inline-table; border-radius: 4px; overflow: hidden; margin: 0 auto;">
         <tr>
-          <td style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase;">
+          <td align="center" style="background-color: #484f58; color: #ffffff; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
             PERIOD
           </td>
-          <td style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase;">
+          <td align="center" style="background-color: #ffd1dc; color: #1e293b; font-size: 11px; font-weight: bold; letter-spacing: 1px; padding: 6px 12px; text-transform: uppercase; text-align: center;">
             PREFINALS
           </td>
         </tr>
@@ -235,17 +238,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 8px 16px 24px 16px;">
-      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0; font-style: italic;">
-         Stay tuned! Prefinal tasks and deliverables will be updated here soon. 
+    <td align="center" style="padding: 8px 16px 24px 16px; text-align: center;">
+      <p style="color: #8b949e; font-size: 12px; line-height: 1.4; margin: 0 auto; font-style: italic; text-align: center;">
+        Stay tuned! Prefinal tasks and deliverables will be updated here soon.
       </p>
     </td>
   </tr>
 
   <!-- DIVIDER -->
   <tr>
-    <td style="padding: 0 16px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px 0;" />
+    <td align="center" style="padding: 0 16px;">
+      <hr style="border: 0; border-top: 1px solid #30363d; margin: 16px auto;" />
     </td>
   </tr>
 
