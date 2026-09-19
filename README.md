@@ -53,7 +53,7 @@
         </div>
         <hr style="background-color: #38bdf8; height: 1.5px; border: none; margin: 6px 0 12px 0;" />
         <div align="center">
-          <table style="background: transparent; border: none; font-size: 14px;">
+          <table style="background: transparent; border: none; font-size: 9px;">
             <tr>
               <td style="color: #0070f3; font-weight: bold; border: none; padding: 4px 8px;">Course:</td>
               <td style="color: #1e293b; border: none; padding: 4px 8px;">GE 4120: 21st Century IT Skills</td>
@@ -72,33 +72,10 @@
     </tr>
   </table>
 </div>
-<!-- SECTION HEADER -->
-<p align="center">
-  <svg fill="none" width="750" height="70" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0070f3" />
-        <stop offset="50%" stop-color="#38bdf8" />
-        <stop offset="100%" stop-color="#00c6ff" />
-      </linearGradient>
-    </defs>
-    <style>
-      .showcase-title {
-        font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-        font-size: 32px;
-        font-weight: 800;
-        fill: #ffffff;
-        stroke: url(#headerGrad);
-        stroke-width: 2px;
-        paint-order: stroke fill;
-      }
-    </style>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="showcase-title">
-      🌷 MY SHOWCASE 🌷
-    </text>
-  </svg>
-</p>
+<h2 align="left">🌷 My Showcase</h2>
 
+<hr>
+<p align="center">
 <!-- PERIOD BADGE -->
 <p align="center">
   <img src="https://img.shields.io/badge/PERIOD-PRELIMINARIES-0070f3?style=for-the-badge&labelColor=0d1b2a" />
@@ -124,13 +101,13 @@
   <tbody>
     <tr>
       <td align="center">
-        <p align="center"><b><font color="#38bdf8" size="3">Digital Layout & Visual Hierarchy</font></b></p>
+        <p align="center"><b><font color="#38bdf8" size="2">PRESENTATION DESIGN PRINCIPLES</font></b></p>
       </td>
       <td align="center">
-        <p align="center"><b><font color="#38bdf8" size="3">UI Color Schemes & Typography</font></b></p>
+        <p align="center"><b><font color="#38bdf8" size="3">COLOR PALETTE & TYPOGRAPHY</font></b></p>
       </td>
       <td align="center">
-        <p align="center"><b><font color="#38bdf8" size="3">Infographic Design & Tech Specs</font></b></p>
+        <p align="center"><b><font color="#38bdf8" size="3">SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION</font></b></p>
       </td>
     </tr>
     <tr>
